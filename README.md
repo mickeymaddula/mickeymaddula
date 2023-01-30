@@ -8,7 +8,7 @@ Talks about #a11y, #react, #htmlcss, #javascript, and #webdevelopment
 
 ⚐ Based in Waltham, MA
 
-ϟ Currently working on UI for Vertica Accelerator
+ϟ Currently building quick prototyped UI for Vertica Accelerator with high-fidelity
 
 ϟ Worked as a Web Developer at Wells Fargo Bank
 
