@@ -8,9 +8,5 @@ Talks about #a11y, #react, #htmlcss, #javascript, and #webdevelopment
 
 ⚐ Based in Waltham, MA
 
-ϟ Currently building quick prototyped UI for Vertica Accelerator with high-fidelity
 
-ϟ Worked as a Web Developer at Wells Fargo Bank
-
-ϟ Worked as a UI Developer at Macys
 <a href="https://app.daily.dev/mickeymaddula"><img src="https://api.daily.dev/devcards/v2/92oDCWy3C.png?type=default&r=8ai" width="356" alt="Mickey Maddula's Dev Card"/></a>
